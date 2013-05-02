@@ -38,8 +38,3 @@ The above code creates:
 	 	 <input type="hidden" value="" name="Category" id="fileField" />
 	 	 <button type="Submit"></button>
 	</form>
-
-Including into the Xpage:
-	<xp:this.resources>
-		<xp:script src="/formBuilder.jss" clientSide="false"></xp:script>
-	</xp:this.resources>
