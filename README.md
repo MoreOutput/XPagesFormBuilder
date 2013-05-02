@@ -23,7 +23,7 @@ The above code creates:
  	<form action="" method="POST" id="webform" name="webform">
 	 	<ul>
 	 		<li>
-	 			<label>Last Name<label>
+	 			<label>First Name<label>
 	 			<input type="text" value="" name="FirstName" id="LastName" />
 	 		</li>
 	 		<li>
