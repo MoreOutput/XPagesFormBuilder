@@ -1,7 +1,7 @@
 XPages Form Builder (0.0.1)
 =======
 
-Create HTML forms in your XPage based on a Form in Designer. Aims to help Xpage development when not using the native design rescources (when youre sporting a bare bones setup). Use as a Script Library in Domino Designer. 
+Create HTML forms in your XPage based on an outlined Designer Form. Aims to aid Xpage development when not using the native design resources (when youre sporting a bare bones setup). Use as a Script Library in Domino Designer. 
 
 Example:
 
